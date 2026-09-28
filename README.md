@@ -22,9 +22,7 @@ pip install pandas numpy matplotlib seaborn
 
 ### 1. Dataset Overview & Structure
 * **What this step does**: Checks the shape of the data ,verify/understand column names, and data types (`df.info()`) which are used in this dataset.
-* **Output Explanation**: this data set contains 8807-rows and 12 columns and has 825.8kb memory
-*                         and contains some missing values in director name ,country and cast details of film....
-*                         and i replace that with unknown string 
+* **Output Explanation**: this data set contains 8807-rows and 12 columns and has 825.8kb memory and contains some missing values in director name ,country and cast details of film.... and replace that with unknown string 
  
 ### 2. Content Type Distribution (Movies vs. TV Shows)
 * **What this step does**: Compares the total number of Movies versus TV Shows available on the platform.
